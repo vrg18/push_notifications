@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746859045190",
+    "project_id": "push-notification-vrg8",
+    "storage_bucket": "push-notification-vrg8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746859045190:android:760fb3b5b296706f3d0547",
+        "android_client_info": {
+          "package_name": "pro.libera.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746859045190-iq5rau8vtmen30bvg5uvuop39o27q07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRMzDnOYUg2o9xXA44XwtYMQcXTm4iGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746859045190-iq5rau8vtmen30bvg5uvuop39o27q07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
